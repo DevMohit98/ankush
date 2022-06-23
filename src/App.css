@@ -1,0 +1,51 @@
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.dropDown {
+  background-color: white;
+  width: 100%;
+  text-align: left;
+  border-bottom: 1px solid blac;
+}
+
+* {
+  font-size: 15px;
+}
+.body {
+  height: 100vh;
+}
+
+.Message {
+  border-left: 4px solid #282828;
+  padding: 8px;
+  box-shadow: 0 1px 1px 0 rgb(0 0 0 / 10%);
+  color: #626262;
+  font-size: 13px;
+  line-height: 20px;
+}
+
+.buttonColor {
+  background: #000;
+  color: white;
+}
+
+.buttonColor:hover {
+  color: #fff;
+}
+
+.BackButton {
+  cursor: pointer;
+  color: #405c5b;
+  text-align: center;
+}
+
+.BackButton:hover {
+  color: #405c5b;
+}
+
+.link {
+  text-decoration: none;
+}
